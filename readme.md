@@ -11,7 +11,7 @@ Bibliothèques utilisés:
 
 ## Méthode d'interpolation:
 
-Pour chaque point X de la fenêtre on détermine sa position Y en fonction des points données par l'utilisateur. Plus un point est proche, plus il impact la position en Y.
+Pour chaque point X de la fenêtre on détermine sa position Y en fonction des points donnés par l'utilisateur. Plus un point est proche, plus il impact la position en Y.
 
 ## Résultat
 
